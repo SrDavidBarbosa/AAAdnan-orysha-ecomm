@@ -1,0 +1,25 @@
+{
+  "name": "sites-teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrDavidBarbosa/Sites-teste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrDavidBarbosa/Sites-teste/issues"
+  },
+  "homepage": "https://github.com/SrDavidBarbosa/Sites-teste#readme",
+  "dependencies": {
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
