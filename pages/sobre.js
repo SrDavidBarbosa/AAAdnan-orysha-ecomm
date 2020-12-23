@@ -7,7 +7,7 @@ function Sobre() {
         <Link href="/">
         <a>Ir para Home</a>
         </Link>
-    </div>; 
+    </div>
 }
 
 export default Sobre
